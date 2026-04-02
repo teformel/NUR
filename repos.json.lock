@@ -758,7 +758,7 @@
             "url": "https://github.com/dmfrpro/nur-packages"
         },
         "doomhammer": {
-            "rev": "f45bb06997d4cb980815773bb109eb71fd5fc5bc",
+            "rev": "ae9ee26dbad419027cdd27f1787a5e76e01bdca7",
             "sha256": "0qxr0nxrmbcn9x71fqzm523didjc19zpxnx0qvxg800ayfwsbkls",
             "url": "https://github.com/doomhammer/nur-packages"
         },
@@ -2120,8 +2120,8 @@
             "url": "https://github.com/ryota2357/nur-packages"
         },
         "rypkgs": {
-            "rev": "94f6f7a4818404ce306a7d3581ed55a9ef874789",
-            "sha256": "0xsqp8kdxcp7nkwbi084c7dq742sd4bbqi07qqqycmik78k00vl5",
+            "rev": "8a7d2ffa5e63af24d8e8b90f4336adc42c2d58fe",
+            "sha256": "0wv7ysfs0y4pckjwwqapj0qgz4d9d0yicf668wn96hjpjvm16h3v",
             "url": "https://github.com/Ryder-C/rypkgs"
         },
         "sagikazarmark": {

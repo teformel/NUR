@@ -758,8 +758,8 @@
             "url": "https://github.com/dmfrpro/nur-packages"
         },
         "doomhammer": {
-            "rev": "ae9ee26dbad419027cdd27f1787a5e76e01bdca7",
-            "sha256": "0qxr0nxrmbcn9x71fqzm523didjc19zpxnx0qvxg800ayfwsbkls",
+            "rev": "c89413408c635518412c409c286b4cd353c9222c",
+            "sha256": "0f8r76qkiw20wy6i6m9nzw38hz8v1mkrrddrjm9n9dlzf2z92rmy",
             "url": "https://github.com/doomhammer/nur-packages"
         },
         "drafolin": {
@@ -943,8 +943,8 @@
             "url": "https://github.com/fortuneteller2k/nur"
         },
         "fractuscontext": {
-            "rev": "bac666dbc01e442327373bb28bfbeb7fdc3864a7",
-            "sha256": "1g6kx1ikw47ipd6z76nfxh9738p8lv9cdfam9ylsi98zlji6d058",
+            "rev": "a722e1d49ec00afbfe1a6c337880a26cd24ecf3d",
+            "sha256": "1z85y3vpm0kbybwh10643iqaq7vl291hda98ymq0h66wzddkshyp",
             "url": "https://github.com/fractuscontext/nix-nur"
         },
         "frankoslaw": {
@@ -2537,8 +2537,8 @@
             "url": "https://github.com/Oliper202020/workman-nur"
         },
         "wrvsrx": {
-            "rev": "45f5eac78bb6bce982f875a1678caebdc1314527",
-            "sha256": "0jh3fhwmva8g496pd4xh45b1x85lj0i5j5xwwfz9vgarn6cs8r7r",
+            "rev": "2e09698b9260d125af5cf360465f83ef193542e7",
+            "sha256": "0c7g9ccs79dhpak8rpkki1b6pd8fyi8x52f7v7zd2v5nf75yrrnp",
             "url": "https://github.com/wrvsrx/nur-packages"
         },
         "wwmoraes": {
